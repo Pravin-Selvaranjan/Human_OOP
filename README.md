@@ -1,5 +1,16 @@
 # HUMAN OOP PROJECT
 
+
+![flowchart pravin](https://user-images.githubusercontent.com/110179866/182945570-40bb3147-a979-4666-8d7c-a36d8c6322f3.jpeg)
+
+
+
+
+
+
+
+
+
 ## In this project, we will be utilising the OOP method in order to create some functions
 
 ### **_Keywords_**
@@ -166,11 +177,12 @@ Objects only reveal internal mechanisms that are relevant for the use of other o
 The below screenshot shows an example of how Abstraction was used within the above code
 The user does not see the implementation behind ```.move```
 
-(image)
 
 
 
 
+
+<img width="293" alt="OOP snip1 jpeg" src="https://user-images.githubusercontent.com/110179866/182945695-99f78e11-1e12-4a04-bb15-b253ceeec913.png">
 
 
 
@@ -182,11 +194,9 @@ Classes can reuse code from other classes.
 The below screenshot shows an example of inheritence.
 Simply using a previous class to attribute to the current creation.
 
-(image)
 
 
-
-
+<img width="318" alt="oop snip2 jpeg" src="https://user-images.githubusercontent.com/110179866/182945711-e99596ee-2d2b-4164-a611-c6f906efb924.png">
 
 
 
@@ -199,12 +209,13 @@ The below screenshot shows an example of Encapsulation.
 The ```_number_of_fights``` function will return "information redacted to the user"
 By using ```__record``` this info becomes private
 
-(image)
 
 
 
 
 
+
+<img width="184" alt="OOP snip3 jpeg" src="https://user-images.githubusercontent.com/110179866/182945753-7371d859-e35f-4bd3-afd1-b70eb944d000.png">
 
 
 
@@ -218,9 +229,13 @@ The below screenshot shows an example of Polymorphism
 The first one shows  ```def play_games(self): return "gotta have fun!"``` but the same function is used within the male class with a different output
 
 
-(image)
 
-(image)
 
+<img width="142" alt="OOP snip4 jpeg" src="https://user-images.githubusercontent.com/110179866/182945773-fe5c87a6-7fc5-49f8-b4b2-17732c56fd5c.png">
+
+
+
+
+<img width="158" alt="OOP snip5 jpeg" src="https://user-images.githubusercontent.com/110179866/182945783-5bf82632-9b60-4690-8fb4-7543b9ffa6b2.png">
 
 
